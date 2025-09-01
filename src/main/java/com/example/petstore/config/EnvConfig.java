@@ -20,10 +20,6 @@ public class EnvConfig {
         }
     }
 
-    public static String get(String key) {
-        return props.getProperty(key);
-    }
-
     public static String getBaseUrl() {
         return props.getProperty("base.url").trim();
     }
