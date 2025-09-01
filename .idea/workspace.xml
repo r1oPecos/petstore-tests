@@ -5,74 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c44bf540-913e-4543-9d3f-52ebfbd73a8d" name="Changes" comment="Veeam Recruitment Project">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/petstore/client/APIClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/petstore/config/EnvConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/petstore/dto/IncorrectOrderNumberDeleteModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/petstore/dto/OrderModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/petstore/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/dataproviders/TestDataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/store/StoreTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/utils/RetryAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/utils/RetryBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/utils/TestListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/env-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/env-test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/env.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/petstore/client/APIClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/petstore/config/EnvConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/petstore/dto/IncorrectOrderNumberDeleteModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/petstore/dto/OrderModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/petstore/reporting/ExtentManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/petstore-store-tests-selenium-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Petstore Store Suite/Store Tests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Petstore Store Suite/Store Tests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.example.petstore.tests.store.StoreTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/BaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/dataproviders/TestDataProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/store/StoreTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/utils/RetryAnalyzer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/utils/RetryBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/utils/TestListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/env-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/env-test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/env.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/StoreReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,20 +21,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="local" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "r1o69"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;r1o69&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/r1o69/petstore-tests.git",
-    "accountId": "f55cf7f9-735e-454e-9efd-fb8214ba0513"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/r1o69/petstore-tests.git&quot;,
+    &quot;accountId&quot;: &quot;f55cf7f9-735e-454e-9efd-fb8214ba0513&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
@@ -112,24 +51,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "TestNG.C:/Users/kgrab/Downloads/petstore-tests/src/test/resources/testng.xml.executor": "Run",
-    "TestNG.StoreTests.executor": "Run",
-    "TestNG.StoreTests.testCreateAndDeleteOrder.executor": "Debug",
-    "TestNG.StoreTests.testDeleteNonExistentOrder.executor": "Run",
-    "TestNG.StoreTests.testGetNonExistentOrder.executor": "Debug",
-    "TestNG.StoreTests.testGetOrder.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/kgrab/Downloads/petstore-tests/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StoreTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StoreTests.testCreateAndDeleteOrder.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.StoreTests.testDeleteNonExistentOrder.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StoreTests.testGetNonExistentOrder.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.StoreTests.testGetOrder.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.C:/Users/kgrab/Downloads/petstore-tests/src/test/resources/testng.xml">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="petstore-tests" />
