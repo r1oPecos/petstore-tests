@@ -1,3 +1,8 @@
+
+/*
+ * Copyright (c) 2025 Krzysztof Grabowski.
+ */
+
 package com.example.petstore.client;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

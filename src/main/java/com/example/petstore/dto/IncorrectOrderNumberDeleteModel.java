@@ -1,3 +1,8 @@
+
+/*
+ * Copyright (c) 2025 Krzysztof Grabowski.
+ */
+
 package com.example.petstore.dto;
 
 import lombok.Getter;

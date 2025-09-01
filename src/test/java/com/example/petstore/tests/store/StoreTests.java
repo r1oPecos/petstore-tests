@@ -11,6 +11,11 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 import java.net.http.HttpResponse;
+
+/*
+ * Copyright (c) 2025 Krzysztof Grabowski.
+ */
+
 import java.util.concurrent.ThreadLocalRandom;
 
 import static org.assertj.core.api.Assertions.assertThat;

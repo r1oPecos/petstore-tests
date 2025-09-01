@@ -1,3 +1,8 @@
+
+/*
+ * Copyright (c) 2025 Krzysztof Grabowski.
+ */
+
 package com.example.petstore.tests.dataproviders;
 
 import org.testng.annotations.DataProvider;
