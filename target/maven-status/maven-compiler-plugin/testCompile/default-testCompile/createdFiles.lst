@@ -1,0 +1,5 @@
+com\example\petstore\tests\store\StoreTests.class
+com\example\petstore\tests\BaseTest.class
+com\example\petstore\tests\utils\TestListener.class
+com\example\petstore\tests\dataproviders\TestDataProvider.class
+com\example\petstore\tests\utils\RetryAnalyzer.class

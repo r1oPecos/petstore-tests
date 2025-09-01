@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c44bf540-913e-4543-9d3f-52ebfbd73a8d" name="Changes" comment="Veeam Recruitment Project">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/petstore/client/APIClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/petstore/config/EnvConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/petstore/dto/IncorrectOrderNumberDeleteModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/petstore/dto/OrderModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/petstore/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/dataproviders/TestDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/store/StoreTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/utils/RetryAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/utils/RetryBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/petstore/tests/utils/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/env-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/env-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/env.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/petstore/client/APIClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/petstore/config/EnvConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/petstore/dto/IncorrectOrderNumberDeleteModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/petstore/dto/OrderModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/petstore/reporting/ExtentManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/petstore-store-tests-selenium-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Petstore Store Suite/Store Tests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Petstore Store Suite/Store Tests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.example.petstore.tests.store.StoreTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/dataproviders/TestDataProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/store/StoreTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/utils/RetryAnalyzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/utils/RetryBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/petstore/tests/utils/TestListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/env-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/env-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/env.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/StoreReport.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "r1o69"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/r1o69/petstore-tests.git",
+    "accountId": "f55cf7f9-735e-454e-9efd-fb8214ba0513"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="31y5BKR7s4FmNwiTKFDAo13YndH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "TestNG.C:/Users/kgrab/Downloads/petstore-tests/src/test/resources/testng.xml.executor": "Run",
+    "TestNG.StoreTests.executor": "Run",
+    "TestNG.StoreTests.testCreateAndDeleteOrder.executor": "Debug",
+    "TestNG.StoreTests.testDeleteNonExistentOrder.executor": "Run",
+    "TestNG.StoreTests.testGetNonExistentOrder.executor": "Debug",
+    "TestNG.StoreTests.testGetOrder.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/kgrab/Downloads/petstore-tests/src/test/resources/testng.xml">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="petstore-tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="petstore-tests" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/kgrab/Downloads/petstore-tests/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="petstore-store-tests-selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="petstore-store-tests-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.petstore.tests.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.petstore.tests.store" />
+      <option name="MAIN_CLASS_NAME" value="com.example.petstore.tests.store.StoreTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTests.testCreateAndDeleteOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="petstore-store-tests-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.petstore.tests.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.petstore.tests.store" />
+      <option name="MAIN_CLASS_NAME" value="com.example.petstore.tests.store.StoreTests" />
+      <option name="METHOD_NAME" value="testCreateAndDeleteOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTests.testDeleteNonExistentOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="petstore-store-tests-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.petstore.tests.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.petstore.tests.store" />
+      <option name="MAIN_CLASS_NAME" value="com.example.petstore.tests.store.StoreTests" />
+      <option name="METHOD_NAME" value="testDeleteNonExistentOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTests.testGetOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="petstore-store-tests-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.petstore.tests.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.petstore.tests.store" />
+      <option name="MAIN_CLASS_NAME" value="com.example.petstore.tests.store.StoreTests" />
+      <option name="METHOD_NAME" value="testGetOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/kgrab/Downloads/petstore-tests/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.StoreTests" />
+        <item itemvalue="TestNG.StoreTests.testGetOrder" />
+        <item itemvalue="TestNG.StoreTests.testCreateAndDeleteOrder" />
+        <item itemvalue="TestNG.StoreTests.testDeleteNonExistentOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c44bf540-913e-4543-9d3f-52ebfbd73a8d" name="Changes" comment="" />
+      <created>1756483337921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756483337921</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Veeam Recruitment Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Veeam Recruitment Project" />
+  </component>
+</project>
